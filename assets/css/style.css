@@ -1,0 +1,42 @@
+#title {
+	font-family: 'Libre Barcode 39 Text', cursive;
+	text-align: center;
+	font-size: 60px;
+	margin-bottom: 80px;
+	margin-top: 80px;
+}
+
+#wrapper {
+	text-align: center;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+#subwrapper {
+	font-family: 'Source Sans Pro', 'sans-serif';
+}
+
+#start:hover {
+	background-color: black;
+	color: white;
+}
+
+#start {
+	border: 1px solid black;
+	font-size: 18px;
+	padding: 10px 30px;
+	border-radius: 12px;
+}
+
+#end:hover{
+	background-color: black;
+	color:white;
+}
+
+#end {
+	border: 1px solid black;
+	font-size: 12px;
+	padding: 5px 20px;
+	border-radius: 12px;
+	font-family: 'Source Sans Pro', 'sans-serif';
+}
